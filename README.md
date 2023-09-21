@@ -6,11 +6,11 @@ Memory machinations and madness
 
 The make file should support the following targets:
 
-`make compile
+`make compile`
 
-make run
+`make run`
 
-make clean
-`
+`make clean`
+
 
 
