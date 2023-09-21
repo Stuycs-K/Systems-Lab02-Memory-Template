@@ -7,7 +7,9 @@ Memory machinations and madness
 The make file should support the following targets:
 
 `make compile
+
 make run
+
 make clean
 `
 
