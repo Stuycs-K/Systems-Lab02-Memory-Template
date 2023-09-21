@@ -4,8 +4,11 @@ Memory machinations and madness
 
 # Makefile requirement
 
-You should able to:
+The make file should support the following targets:
 
-make compile
-
+`make compile
 make run
+make clean
+`
+
+
