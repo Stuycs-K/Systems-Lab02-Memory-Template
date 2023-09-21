@@ -1,3 +1,3 @@
-# K02-Systems-Memory
+# Lab02-Memory
 
 Memory machinations and madness
