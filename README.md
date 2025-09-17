@@ -14,6 +14,7 @@ The make file should support the following targets:
 
 
 ### Steps:
+
     (Print the bullet point number, then print what it tells yout to print)
     
     1. Declare and initialize variables c,i,li of types char, int, and long. Print out the addresses of each variable in hex and decimal.
@@ -55,7 +56,8 @@ li: 402
 4.
 intp: 0x7ffee3dbd938 p points to: 
 charp: 0x7ffee3dbd938 p points to:
-5. 
+5.
+etc
 ```
 
 
