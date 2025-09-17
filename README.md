@@ -13,9 +13,9 @@ The make file should support the following targets:
 `make clean`
 
 
-### Steps:
+### Directions
 
-    (Print the bullet point number, then print what it tells yout to print)
+    For all steps: Print the bullet point number, then print what it tells yout to print
     
     1. Declare and initialize variables c,i,li of types char, int, and long. Print out the addresses of each variable in hex and decimal.
         What do you notice anything about the addresses?
