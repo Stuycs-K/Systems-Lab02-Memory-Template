@@ -13,17 +13,17 @@ The make file should support the following targets:
 `make clean`
 
 
-### Directions
+# Directions
 
-    For all steps: Print the bullet point number, then print what it tells yout to print
+For all steps: Print the bullet point number, then print what it tells yout to print
     
-    1. Declare and initialize variables c,i,li of types char, int, and long. Print out the addresses of each variable in hex and decimal.
+1. Declare and initialize variables c,i,li of types char, int, and long. Print out the addresses of each variable in hex and decimal.
         What do you notice anything about the addresses?
         Print this question: What do you notice when you run the program more than once?
         
-    2. Declare and initialize pointers for each of your variables pc, pi, pli . Print out the value of what each of the pointers are referencing. (this should be the same value from step 1.).
+2. Declare and initialize pointers for each of your variables pc, pi, pli . Print out the value of what each of the pointers are referencing. (this should be the same value from step 1.).
     
-    3. Use the pointers to modify the values of the original variables and print out the new values.
+3. Use the pointers to modify the values of the original variables and print out the new values.
     
     4. Declare and initialize an unsigned int variable `ui` and 2 pointers that point to it, one should be an int* and the other should be a char *. Print out the value of each pointer (this should be the memory address), and de-reference each pointer to print out the value each points to.
         
